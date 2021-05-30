@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: 'Jester0x01.github.io'
+baseurl: "
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
 lang: en-US
@@ -19,13 +19,15 @@ title: Jester0x01                          # the main title
 
 tagline: To my rabbit, whom I follow.   # it will display as the sub-title
 
-# description: >-                        # used by seo meta and the atom feed
+description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://Jester0x01.github.io'
+
+author: Jester0x01
 
 github:
   username: Jester0x01             # change to your github username
@@ -74,11 +76,11 @@ theme_mode:   # [dark|light]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: ''
+img_cdn: 'https://Jester0x01.github.io/blog-img'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
-
+avatar: https://laipuran.github.io/blog-img/avatar.jpg
+ 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
