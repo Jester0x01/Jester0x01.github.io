@@ -1,9 +1,10 @@
 ---
 title: BlackHat talks to watch (2021)
 author: Jester0x01
-date: 2021-05-31 23:37
+date: 2021-05-30
 categories: [Websec]
 tags: [talks]
+
 ---
 
 This is checklist for 2021 BlackHat Web Security Research talks I am planning to read or watch.
