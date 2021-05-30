@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> CS Student, Breaking Security for Fun and Profit. Code in Python and Golang. Interested in Philosohy and Psychology. Onkie Donkie that's enough of me.
