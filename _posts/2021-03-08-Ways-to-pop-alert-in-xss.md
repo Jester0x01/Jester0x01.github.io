@@ -1,7 +1,7 @@
 ---
 title: Ways to pop alert in XSS
 author: Jester0x01
-date: 2021-06-07
+date: 2021-03-08
 categories: [Websec]
 tags: [xss, javascript, notes]
 
