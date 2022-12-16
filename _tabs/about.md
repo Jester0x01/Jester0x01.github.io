@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> Part time Code Crasher
+> enjoy security research, coding and rabbit holes.
