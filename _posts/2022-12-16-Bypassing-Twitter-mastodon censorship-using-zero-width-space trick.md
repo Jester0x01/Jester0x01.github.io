@@ -106,6 +106,14 @@ Replace `your-username-here` with your mastodon instance's username.
 
 
 
+------
+here's link to my infosec.exchange profile 
+`http://testphp.vulnweb.com/redir.php?r=https://in%e2%80%8bfosec.exchange/@0`
+
+you can post this on twitter and see if it is resolvable or not. ;)
+
+
+
 
 Connect with me here:
 https://infosec.exchange/@0
