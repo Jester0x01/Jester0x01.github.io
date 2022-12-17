@@ -1,5 +1,5 @@
 ---
-title: Bypassing Twitter's mastodon censorship using zero width space trick
+title: Bypassing Twitter's mastodon censorship using redirects and zero width space trick
 author: Jester0x01
 date: 2022-12-16
 categories: [Websec]
@@ -104,7 +104,7 @@ Replace `your-username-here` with your mastodon instance's username.
 
 `http://testphp.vulnweb.com/redir.php?r=https://mast%e2%80%8bodon.social/@your-username-here`
 
-
+note: `testphp.vulnweb.com` is for example, you can use any domain as long as it accept and redirect urls.
 
 ------
 here's link to my infosec.exchange profile 
